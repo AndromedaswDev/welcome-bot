@@ -1,0 +1,17 @@
+{
+  "name": "stingbot",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
